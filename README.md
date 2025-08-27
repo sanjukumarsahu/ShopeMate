@@ -14,7 +14,7 @@ It provides users with a seamless shopping experience: browse products, add them
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Home Page**
   - Browse products fetched from the [Fake Store API](https://fakestoreapi.com/).
