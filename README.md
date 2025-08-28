@@ -33,25 +33,25 @@ It allows users to browse products, add them to the cart, manage quantities, and
 - **Styling:** Tailwind CSS  
 - **Notifications:** React Toastify  
 
----
+
 
 ## 📂 Project Structure
 
-shopmate/
- ├── public/                # Static files
- ├── src/
- │   ├── components/        # Reusable UI components (Navbar, Product, CartItem, etc.)
- │   ├── pages/             # Application pages (Home, Cart)
- │   ├── redux/             # Redux store & slices
- │   │   ├── store.js
- │   │   ├── cartSlice.js
- │   ├── App.jsx            # Main App component
- │   ├── main.jsx           # Entry point (React Router + Provider)
- │   └── index.css          # Global styles
- └── package.json
+-shopmate/
+- ├── public/                # Static files
+- ├── src/
+- │   ├── components/        # Reusable UI components (Navbar, Product, CartItem, etc.)
+- │   ├── pages/             # Application pages (Home, Cart)
+- │   ├── redux/             # Redux store & slices
+- │   │   ├── store.js
+- │   │   ├── cartSlice.js
+- │   ├── App.jsx            # Main App component
+- │   ├── main.jsx           # Entry point (React Router + Provider)
+- │   └── index.css          # Global styles
+- └── package.json
 
 
----
+
 
 ## 📸 Screenshots
 
