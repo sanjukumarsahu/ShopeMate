@@ -37,17 +37,16 @@ It allows users to browse products, add them to the cart, manage quantities, and
 
 ## 📂 Project Structure
 
-
 shopmate/
  ├── public/                # Static files
  ├── src/
- │   ├── components/        # Reusable UI components (Navbar, Product, CartItem, Spinner, etc.)
- │   ├── pages/             # Home and Cart pages
+ │   ├── components/        # Reusable UI components (Navbar, Product, CartItem, etc.)
+ │   ├── pages/             # Application pages (Home, Cart)
  │   ├── redux/             # Redux store & slices
- │   │   ├── Store.js
+ │   │   ├── store.js
  │   │   ├── cartSlice.js
- │   ├── App.jsx            # Main App layout
- │   ├── main.jsx           # Entry point with router and provider
+ │   ├── App.jsx            # Main App component
+ │   ├── main.jsx           # Entry point (React Router + Provider)
  │   └── index.css          # Global styles
  └── package.json
 
